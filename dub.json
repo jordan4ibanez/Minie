@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Jordan"
+	],
+	"copyright": "Copyright © 2022, Jordan",
+	"description": "A minimal D application.",
+	"license": "BSD",
+	"name": "minie"
+}
