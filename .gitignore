@@ -13,3 +13,4 @@ minie-test-*
 *.o
 *.obj
 *.lst
+*.pdb
